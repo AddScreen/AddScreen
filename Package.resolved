@@ -37,12 +37,12 @@
       }
     },
     {
-      "identity" : "appflyerframework",
+      "identity" : "appflyersdk",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/AppsFlyer-org/AppFlyerFramework",
+      "location" : "https://github.com/AppFlyerSDK/AppFlyerSDK",
       "state" : {
-        "branch" : "development",
-        "revision" : "cc7d56d7faae78e719fde2b7f74a5ae164a5dfb6"
+        "branch" : "master",
+        "revision" : "8136aff9c58c1703acaeaf53dcba8d15cf2f44b5"
       }
     },
     {
@@ -91,12 +91,12 @@
       }
     },
     {
-      "identity" : "firestorefirebase",
+      "identity" : "firestoresdk",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/Firebase-com/FirestoreFirebase",
+      "location" : "https://github.com/FirestoreSDK/FirestoreSDK",
       "state" : {
         "branch" : "master",
-        "revision" : "021ad3c401725ec65c30f98d019967d0e53289f3"
+        "revision" : "6708aa81081103ccf30540ece304a2de6761c622"
       }
     },
     {
